@@ -1,7 +1,7 @@
 # Hi there, I'm Ambrish Singh 👋
 
 ## 👨‍💻 About Me
-I'm a researcher currently working in the RWE health outcomes domain. With a deep passion for Health Economics and Outcomes Research (HEOR), I have over a decade of experience in the industry, including consulting, medical devices, and pharmaceuticals companies.
+I'm a researcher currently working in the RWE health outcomes (HO) domain. With a deep passion for Health Economics and Outcomes Research (HEOR), I have over a decade of experience in the industry, including consulting, medical devices, and pharmaceuticals companies.
 
 
 ## 🌱 My Journey
